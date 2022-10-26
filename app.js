@@ -36,7 +36,7 @@ const SliderState = require('./routes/SliderState')
 
 
 app.use(cors({credentials: true,
-    origin: 'http://localhost:3000'
+    origin: 'https://fullstack-cms-client.onrender.com/'
 }));
 
 
